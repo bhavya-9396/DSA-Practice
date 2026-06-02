@@ -1,3 +1,9 @@
+// Problem: Container With Most Water
+// Approach: Two Pointers
+// Time Complexity: O(n)
+
+
+
 import java.util.*;
 public class  ContainerWithMostWater{
 
